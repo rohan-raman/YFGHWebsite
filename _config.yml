@@ -18,6 +18,7 @@ email: main@yfgh.org
 description: >- # this means to ignore newlines until "baseurl:"
   Explore the official YFGH website to learn about our programs and how you can get involved.
 minimal_mistakes_skin: air
+repository: "Rohan-Raman/YFGHWebsite"
 search: true
 
 # Build settings
