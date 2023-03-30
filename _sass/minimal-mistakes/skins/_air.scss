@@ -1,0 +1,23 @@
+/* ==========================================================================
+   Air skin
+   ========================================================================== */
+
+/* Colors */
+$background-color: #eeeeee !default;
+$text-color: #22333B !default;
+$muted-text-color: #393e46 !default;
+$primary-color: #098BD4 !default;
+$border-color: mix(#fff, #393e46, 75%) !default;
+$footer-background-color: #22333B !default;
+$link-color: #08CD8E !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: #098BD4 !default;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+
+.page__footer {
+  color: #fff !important; // override
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
