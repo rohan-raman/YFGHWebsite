@@ -14,11 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Youth Foundation for Global Health
+subtitle: YFGH
 email: main@yfgh.org
 description: >- # this means to ignore newlines until "baseurl:"
   Explore the official YFGH website to learn about our programs and how you can get involved.
 minimal_mistakes_skin: air
 repository: "Rohan-Raman/YFGHWebsite"
+logo: "/assets/images/emblem - black.svg"
+url: "https://www.yfgh.org"
 search: true
 
 # Build settings
