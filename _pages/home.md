@@ -5,11 +5,11 @@ hidden: true
 header:
   overlay_color: "#22333B"
 excerpt: >
-  Join us to increase youth participation in global health activism and education.
+  Increasing youth participation in global health activism and education.
 feature_row:
   - title: "About"
     excerpt: "Discover YFGH, our mission, and our work."
-    url: "/docs/configuration/"
+    url: "/about"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - title: "Programs"
