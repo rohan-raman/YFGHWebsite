@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Founded in November 2023, the Youth Foundation for Global Health (YFGH) is a dynamic and forward-thinking organization dedicated to empowering youth in the realm of global health education and activism. We firmly believe that young individuals possess immense potential to make a positive impact on the world, and we strive to provide them with the necessary tools, resources, and opportunities to drive meaningful change in global health.
+Founded in May 2023, the Youth Foundation for Global Health (YFGH) is a dynamic and forward-thinking organization dedicated to empowering youth in the realm of global health education and activism. We firmly believe that young individuals possess immense potential to make a positive impact on the world, and we strive to provide them with the necessary tools, resources, and opportunities to drive meaningful change in global health.
 
 # Our Vision
 At YFGH, our vision is a world where youth are actively engaged in global health, equipped with knowledge, and empowered to address the pressing challenges that affect the well-being of communities worldwide. We envision a future where young minds are at the forefront of transforming healthcare systems, promoting public health, and championing health equity for all.
