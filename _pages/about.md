@@ -3,8 +3,7 @@ layout: splash
 permalink: /about/
 title: "About"
 header:
-  image: /assets/images/yfgh-header.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_color: "#22333B"
 ---
 
 Founded in May 2023, the Youth Foundation for Global Health (YFGH) is an organization dedicated to empowering youth in the realm of global health education and activism. We firmly believe that young individuals possess immense potential to make a positive impact on the world, and we strive to provide them with the necessary tools, resources, and opportunities to drive meaningful change.
