@@ -25,3 +25,5 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+![image-center](/assets/images/yfgh-header.png){: .align-center}
