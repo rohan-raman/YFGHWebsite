@@ -14,7 +14,7 @@ feature_row:
     btn_label: "Learn more"
   - title: "Programs"
     excerpt: "Read about our youth programs and how we make an impact."
-    url: "/docs/layouts/"
+    url: "/programs/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - title: "Get Involved"
