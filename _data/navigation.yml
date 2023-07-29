@@ -1,7 +1,7 @@
 main:
-  - title: "Posts"
-    url: /posts/
   - title: "About"
     url: /about/
   - title: "Programs"
     url: /programs/
+  - title: "Get Involved"
+    url: /get-involved/
