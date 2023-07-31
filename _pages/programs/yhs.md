@@ -4,14 +4,13 @@ permalink: /programs/yhs/
 header:
   overlay_color: "#22333B"
 title: Youth Health Speakers
+excerpt: >
+  Inform the world on global health by presenting in Youth Health Speakers (YHS)
 ---
-
-Inform the world on global health by presenting in Youth Health Speakers (YHS)
-{: .text-center}
 
 # What is YHS?
 
-Youth Health Speakers is a **speaker-series** for high school students to raise awareness and disseminate information on global health to the general public.
+Youth Health Speakers is a **speaker series** for high school students to raise awareness and disseminate information on global health to the general public.
 
 Students can submit their presentations year-round, and once accepted, they are given the chance to **present live and share their work online**. This gives students experience in global health advocacy, taking a direct role in educating the community on complex global health issues. 
 

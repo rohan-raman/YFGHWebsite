@@ -4,10 +4,9 @@ permalink: /programs/yhr/
 header:
   overlay_color: "#22333B"
 title: Youth Health Review
+excerpt: >
+  Contribute to the global health research community by submitting to the Youth Health Review (YHR)
 ---
-
-Contribute to the global health research community by submitting to the Youth Health Review (YHR)
-{: .text-center}
 
 # What is YHR?
 
