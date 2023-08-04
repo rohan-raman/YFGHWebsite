@@ -5,9 +5,9 @@ header:
   overlay_color: "#22333B"
 title: Get Involved
 
-feature_row_join_programs:
+feature_row_programs:
   - image_path: "/assets/images/get-involved/programs-image.png"
-    alt: "programs placeholder image"
+    alt: "programs image"
     title: "Youth Programs"
     excerpt: > 
         Young people are welcome to join our revolutionary programs.
@@ -18,10 +18,10 @@ feature_row_join_programs:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 
-feature_row_join_programs:
+feature_row_team:
   - image_path: "/assets/images/get-involved/programs-image.png"
-    alt: "programs placeholder image"
-    title: "Join Our Team"
+    alt: "our team image"
+    title: "Our Team"
     excerpt: > 
         Young people are welcome to join our revolutionary programs.
 
@@ -32,4 +32,4 @@ feature_row_join_programs:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="feature_row_join_programs" type="left" %}
+{% include feature_row id="feature_row_programs" type="left" %}
