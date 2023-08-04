@@ -19,7 +19,7 @@ feature_row:
     btn_label: "Learn more"
   - title: "Get Involved"
     excerpt: "See how you can make a difference in achieving our mission."
-    url: "/docs/license/"
+    url: "/get-involved/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
