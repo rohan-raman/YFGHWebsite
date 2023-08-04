@@ -24,6 +24,7 @@ feature_row_team:
     title: "Our Team"
     excerpt: > 
         Our team is always looking for dedicated people to join our team and help advance our mission.
+        
 
         We take applicants for all departments, and provide plenty of opportunities for members to advance into leadership positions.
     url: "https://forms.gle/NGqso2mmobMuPdro8" 
