@@ -1,7 +1,6 @@
 ---
-layout: single
-permalink: /programs/yhs/
 header:
+  teaser: /assets/images/yhs-logo.png/
   overlay_color: "#22333B"
 title: Youth Health Speakers
 excerpt: >
