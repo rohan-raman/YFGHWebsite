@@ -1,7 +1,6 @@
 ---
-layout: single
-permalink: /programs/yhs/
 header:
+  teaser: /assets/images/yhs-logo.png/
   overlay_color: "#22333B"
 title: Youth Health Speakers
 excerpt: >
@@ -23,4 +22,4 @@ YHS is intended for a **general audience, not a scientific one**, and is meant t
 # How can I submit?
 Please consult our submission guidelines for all submission procedures and guidelines. 
 
-<a href="https://docs.google.com/document/d/1Bu00tgQChtrpRCPJ4Eq7MP7RinbQqiiWNWRrx57hW8U/edit?usp=sharing" target="_blank" class="btn btn--primary">Submission Guidelines</a>
+[Submission Guidelines](https://docs.google.com/document/d/1Bu00tgQChtrpRCPJ4Eq7MP7RinbQqiiWNWRrx57hW8U/edit?usp=sharing){: .btn .btn--primary}

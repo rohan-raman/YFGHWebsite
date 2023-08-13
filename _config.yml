@@ -24,6 +24,7 @@ logo: "/assets/images/emblem - black.svg"
 url: "https://www.yfgh.org"
 search: true
 og_image: "/assets/images/full logo - white on dark bg - square.png"
+github: [metadata]
 
 # Build settings
 markdown: kramdown
@@ -111,6 +112,13 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _programs
+  - scope:
+      path: ""
+      type: programs
+    values:
+      layout: single
+      author_profile: false
 
 category_archive:
   type: liquid
@@ -121,3 +129,8 @@ tag_archive:
 
 compress_html:
   clippings: all
+
+collections:
+  programs:
+    output: true
+    permalink: /:collection/:path/
