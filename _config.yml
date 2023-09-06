@@ -117,7 +117,6 @@ defaults:
       path: ""
       type: programs
     values:
-      layout: single
       author_profile: false
       layout: splash
       header:
@@ -127,7 +126,6 @@ defaults:
       path: ""
       type: our_team
     values:
-      layout: single
       author_profile: false
       layout: splash
       header:
