@@ -127,9 +127,7 @@ defaults:
       type: our_team
     values:
       author_profile: false
-      layout: splash
-      header:
-        overlay_color: "#22333B"
+      layout: single
 
 category_archive:
   type: liquid

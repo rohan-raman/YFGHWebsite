@@ -1,7 +1,6 @@
 ---
 header:
   teaser: /assets/images/yhs-logo.png/
-  overlay_color: "#22333B"
 title: Youth Health Speakers
 excerpt: >
   Inform the world on global health by presenting in Youth Health Speakers (YHS)

@@ -1,7 +1,6 @@
 ---
 header:
   teaser: /assets/images/yhr-logo.png
-  overlay_color: "#22333B"
 title: Youth Health Review
 excerpt: >
   Contribute to the global health research community by submitting to the Youth Health Review (YHR)
